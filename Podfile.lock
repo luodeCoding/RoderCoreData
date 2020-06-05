@@ -1,0 +1,20 @@
+PODS:
+  - AlecrimCoreData (6.0.1)
+  - HandyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AlecrimCoreData
+  - HandyJSON (~> 5.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AlecrimCoreData
+    - HandyJSON
+
+SPEC CHECKSUMS:
+  AlecrimCoreData: 6322b8ef39975d79ecf930b5af4782907845a705
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+
+PODFILE CHECKSUM: a37cc4c7b3f97b8b04519cb2b85cb826d3ab85e1
+
+COCOAPODS: 1.9.1
